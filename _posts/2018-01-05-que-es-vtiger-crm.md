@@ -10,7 +10,7 @@ tags:
   - pymes
 ---
 
-Vtiger CRM es una herramienta funcional, sumamente vers\átil para administrar las relaciones con tus clientes, es ayuda en la automatización de los proceso de ventas, servicios y soporte al cliente, automatización de marketing, manejo de inventarios y mucho mas ademas con la ayuda de expertos puedes desarrollar modulos a la medida de las necesidades de tu empresa.
+*Vtiger CRM es una herramienta funcional, sumamente vers\átil para administrar las relaciones con tus clientes, es ayuda en la automatización de los proceso de ventas, servicios y soporte al cliente, automatización de marketing, manejo de inventarios y mucho mas ademas con la ayuda de expertos puedes desarrollar modulos a la medida de las necesidades de tu empresa.*
 {: style="text-align: justify;"}
 
 Vtiger CRM es una excelente opción para empresas de todos los tamaños y cualquier tipo de industria, es un software muy intuitivo, flexible y seguro, pero sin duda una de las cualidades que mas realza su importancia es que es OpenSource, loque disminuye drasticamente el costo de adquisición.
