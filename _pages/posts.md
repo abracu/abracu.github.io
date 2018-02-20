@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Aprendiendo CRM
+title: Mis Entradas
 description: "List of posts"
 permalink: /posts.html
 ---
