@@ -16,7 +16,7 @@ Vtiger CRM es una herramienta funcional, sumamente versátil para administrar la
 Vtiger CRM es una excelente opción para empresas de todos los tamaños y cualquier tipo de industria, es un software muy intuitivo, flexible y seguro, pero sin duda una de las cualidades que mas realza su importancia es que es OpenSource, loque disminuye drasticamente el costo de adquisición.
 {: style="text-align: justify;"}
 
-Vtiger CRM apoya a sus empleados al tener una mejor organización de la información de sus clientes, gracias soportando su gestion en modulos como: contactos, cuentas, prospectos, oportunidades de ventas, cotizaciones, pedidos, facturas, etc. Vtiger es una herramienta fácil de usar y está disponible en español gracias al soporte de primera mano que junto con varios desarrolladores latinos les estamos dando a las empresas Colombianas [www.vtiger.com](www.vtiger.com.co).
+Vtiger CRM apoya a sus empleados al tener una mejor organización de la información de sus clientes, gracias soportando su gestion en modulos como: contactos, cuentas, prospectos, oportunidades de ventas, cotizaciones, pedidos, facturas, etc. Vtiger es una herramienta fácil de usar y está disponible en español gracias al soporte de primera mano que junto con varios desarrolladores latinos les estamos dando a las empresas Colombianas [www.vtiger.com](https://www.vtiger.com.co).
 {: style="text-align: justify;"}
 
 ### By Alfredo Bravo Cuero
