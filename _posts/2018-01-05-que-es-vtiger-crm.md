@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Post: Notice"
+title: "Que es vTiger CRM"
 categories:
-  - Post Formats
+  - vtiger
 tags:
-  - Post Formats
-  - notice
+  - crm
+  - ventas
+  - comercial
+  - pymes
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
