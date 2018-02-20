@@ -487,9 +487,10 @@ canvas {
   .logo {
     top: 20px;
     left: 20px;
+    border-radius: 100px;
     position: absolute;
     img {
-      width: 50px;
+      width: 70px;
       height: auto;
     }
     &:after {
