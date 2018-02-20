@@ -10,59 +10,10 @@ tags:
   - pymes
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+Vtiger CRM es una herramienta funcional, sumamente versátil para administrar las relaciones con tus clientes, es ayuda en la automatización de los proceso de ventas, servicios y soporte al cliente, automatización de marketing, manejo de inventarios y mucho mas ademas con la ayuda de expertos puedes desarrollar modulos a la medida de las necesidades de tu empresa.
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element.
+Vtiger CRM es una excelente opción para empresas de todos los tamaños y cualquier tipo de industria, es un software muy intuitivo, flexible y seguro, pero sin duda una de las cualidades que mas realza su importancia es que es OpenSource, loque disminuye drasticamente el costo de adquisición.
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+Vtiger CRM apoya a sus empleados al tener una mejor organización de la información de sus clientes, gracias soportando su gestion en modulos como: contactos, cuentas, prospectos, oportunidades de ventas, cotizaciones, pedidos, facturas, etc. Vtiger es una herramienta fácil de usar y está disponible en español gracias al soporte de primera mano que junto con varios desarrolladores latinos les estamos dando a las empresas Colombianas [www.vtiger.com](www.vtiger.com.co).
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice_info}
-
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice_warning}
-
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice_danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice_success}
-
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
+### By Alfredo Bravo Cuero
