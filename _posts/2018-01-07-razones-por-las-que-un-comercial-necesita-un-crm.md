@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Razones por las que un Ejecutivo Comercial debe usar un CRM"
+title: "Porque un Ejecutivo Comercial debe usar un CRM"
 categories:
   - vtiger
 tags:
@@ -13,7 +13,7 @@ tags:
 Cuando estamos en el proceso de relacionarnos con clientes o prospectos, lo último que necesitamos es llevar una maleta llena de archivos con nosotros. Esta es la razón por la cual existe una gran demanda del sistema CRM y aplicaciones móviles que nos ayudan en este proceso. Como sabes, mientras más rápido podamos responder a la solicitud de un cliente, más rápido podremos cerrar acuerdos. Además, podemos ser más efectivos al usar menos esfuerzo para cerrar ventas. El objetivo siempre es anticiparnos a las necesidades de los clientes.
 {: style="text-align: justify;"}
 
-### Vea el embudo de venta sobre la marcha
+### Visualizar el embudo de venta sobre la marcha
 Cuando nos reunimos con clientes, queremos saber en qué etapa del proceso de ventas se encuentran. Los mensajes deben variar dependiendo de varios factores, como en qué etapa de compra se encuentran. Con un CRM, podemos rastrear oportunidades en tiempo real y actualizar registros de inmediato. Esto significa que puede que ni siquiera tengamos que ingresar a la oficina para programar las citas y llamadas para el día; una gran característica para los representantes de ventas que están en el campo.
 {: style="text-align: justify;"}
 
