@@ -40,7 +40,7 @@ Entonces esto debería actuar como una señal de advertencia. Una PYME que utili
 Recuerde que sus empleados, son las personas que están de cara a los clientes, así que hable con ellos. investigue qué problemas están experimentando en su flujo de trabajo diario y qué herramientas podrían ayudarlos a hacer mejor su trabajo. Esta es una ruta especialmente útil, ya que si decide que un CRM es la respuesta, tiene una lista de problemas para llevar a posibles proveedores para encontrar la solución adecuada.
 {: style="text-align: justify;"}
 
-El software de CRM puede ser el mejor amigo de una PYME cuando se trata de automatizar procesos administrativos, mantener la lealtad del cliente y mejorar la productividad, así que esté atento a estos signos para asegurarse de que si su empresa debería implementarlo ahora, si tiene dudas de cual es el camino, póngase en contacto con www.vtiger.com.co.
+El software de CRM puede ser el mejor amigo de una PYME cuando se trata de automatizar procesos administrativos, mantener la lealtad del cliente y mejorar la productividad, así que esté atento a estos signos para asegurarse de que si su empresa debería implementarlo ahora, si tiene dudas de cual es el camino, póngase en contacto con [www.vtiger.com.co](www.vtiger.com.co).
 {: style="text-align: justify;"}
 
 ### By Alfredo Bravo Cuero
