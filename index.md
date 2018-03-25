@@ -11,4 +11,4 @@ Scrum Master Certified, Desarrollador de Software y Consultor de Software CRM co
 A lo largo de más de 10 años desempeñándome en diversos roles; desarrollador de software, consultor, Scrum Master, capacitador, entre otros he trabajado y desarrollado fuertemente mis habilidades de negociación y tecnología, para seguir aportando valor a las organizaciones. He tenido la suerte de colaborar con grandes corporaciones, empresas medianas, empresas pequeñas, ONGs, profesionales y startups, recorrido que me ha permitido crecer personal y profesionalmente.
 </p>
 
-www.alfredobravocuero.co
+[www.alfredobravocuero.co](https://www.alfredobravocuero.co)
