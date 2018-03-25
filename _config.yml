@@ -3,7 +3,7 @@ title: Alfredo Bravo Cuero
 description: Scrum Master | Consultor de Software
 url: http://alfredobravocuero.co
 logo: halve.png                                       # Site logo
-locale: en_ES
+locale: es_ES
 
 # Left Block Images
 background:
@@ -29,7 +29,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             me@alfredobravocuero.co
+email:             yo@alfredobravocuero.co
 #google.plus:        username
 twitter:            abracu
 facebook:           alfredobravoc
