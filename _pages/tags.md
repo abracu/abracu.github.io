@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tag Archive
+title: Vista de Tag
 description: "An archive of posts sorted by tag."
 permalink: /tags.html
 ---
