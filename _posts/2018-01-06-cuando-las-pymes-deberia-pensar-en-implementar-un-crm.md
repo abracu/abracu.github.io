@@ -26,10 +26,13 @@ Como regla general, si los procesos comerciales  de su organización son por lo 
 {: style="text-align: justify;"}
 
 Del mismo modo, si sus procesos actuales generan ineficiencias como;
-Los comerciales gastan demasiado tiempo en actividades de administración en lugar de ventas.
-Las quejas de los clientes no se resuelven rápidamente.
-Las tareas no se completan tan rápido como deberían.
-Los altos niveles de abandono de los clientes son inexplicables.
+{: style="text-align: justify;"}
+
+* Los comerciales gastan demasiado tiempo en actividades de administración en lugar de ventas.
+* Las quejas de los clientes no se resuelven rápidamente.
+* Las tareas no se completan tan rápido como deberían.
+* Los altos niveles de abandono de los clientes son inexplicables.
+{: style="text-align: justify;"}
 
 Entonces esto debería actuar como una señal de advertencia. Una PYME que utilice hojas de cálculo de Excel para registrar datos de clientes, por ejemplo, podría empezar a tener dificultades si 50 nuevos prospectos o clientes se unen en un mes. En otras palabras, si su personal está luchando con su carga de trabajo o pasando tanto tiempo en tareas manuales y no están haciendo trabajos más importantes como gestionar a los prospectos que están llegando o hacer actividades con los clientes para fidelizarlos, es hora de un CRM.
 {: style="text-align: justify;"}
